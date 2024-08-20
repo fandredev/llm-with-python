@@ -1,0 +1,9 @@
+{
+  "python.analysis.typeCheckingMode": "basic",
+  "[python]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "ms-python.black-formatter", // install Black extension for VSCode
+  },
+}
