@@ -6,6 +6,8 @@
 - [OpenAI](https://openai.com/)
 - [pip](https://pypi.org/project/pip/)
 - [asdf](https://asdf-vm.com/)
+- [streamlit to deploy](https://streamlit.io/)
+- [Jupyter](https://jupyter.org/)
 
 
 
