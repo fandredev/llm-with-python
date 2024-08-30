@@ -8,6 +8,6 @@ ipykernel==6.5.0
 crewai[tools]
 nbconvert==7.16.1
 streamlit==1.37.0
-notebook==7.2.0
+notebook==7.2.2
 ipywidgets==8.1.1
 pysqlite3-binary
